@@ -12,3 +12,4 @@
 /Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.pdb
 /Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.genruntimeconfig.cache
 /Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/ref/Kantor.dll
+/Users/bartek/Projects/Kantor/Kantor/obj/Debug/net8.0/Kantor.sourcelink.json
