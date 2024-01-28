@@ -2,7 +2,6 @@
 
 class Program
 {
-    //zad1
     public static double Pitagoras(double a, double b)
     {
         double przeciwprostokatna = a * a + b * b;
